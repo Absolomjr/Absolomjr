@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/absolomjr" target="blank"><img src="https://img.shields.io/twitter/follow/absolomjr?logo=twitter&style=for-the-badge" alt="absolomjr" /></a> </p>
 
-- 🔭 I’m **currently learning and experimenting with modern web frameworks.**
+- 🔭 I’m **currently learning and experimenting with modern web frameworks in Javascript of React and Node.js and Express.js**
 
-- 🌱 I’m currently learning **Expanding my skills in cybersecurity, networking, and mobile app development.**
+- 🌱 I’m currently learning **Expanding my skills in cybersecurity, networking web development.**
 
 - 👯 I’m looking to collaborate on **Looking forward to collaborating on open-source projects, cybersecurity solutions, and innovative web applications**
 
