@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Absolom Orianga</h1>
-<h3 align="center">I’m a passionate Full-Stack Developer and a second-year Computer Science student with a keen interest in Cybersecurity. I love exploring the intersection of development and security, ensuring that innovative applications are not just functional but also secure.</h3>
+<h3 align="center">I’m a passionate Full-Stack Developer and a Third-year Computer Science student with a keen interest in Cybersecurity. I love exploring the intersection of development and security, ensuring that innovative applications are not just functional but also secure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absolomjr&label=Profile%20views&color=0e75b6&style=flat" alt="absolomjr" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/absolomjr" target="blank"><img src="https://img.shields.io/twitter/follow/absolomjr?logo=twitter&style=for-the-badge" alt="absolomjr" /></a> </p>
 
-- 🔭 I’m **currently learning and experimenting with modern web frameworks in Javascript of React and Node.js and Express.js**
+- 🔭 I’m **currently learning and experimenting with modern web frameworks in Javascript; React and Node.js and Express.js**
 
 - 🌱 I’m currently learning **Expanding my skills in cybersecurity, networking web development.**
 
