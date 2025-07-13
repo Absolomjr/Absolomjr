@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Absolom Orianga</h1>
-<h3 align="center">I’m a passionate Full-Stack Developer and a Third-year Computer Science student with a keen interest in Cybersecurity. I love exploring the intersection of development and security, ensuring that innovative applications are not just functional but also secure.</h3>
+<h3 align="center">I’m a passionate Full-Stack Developer and a third-year Computer Science student with a keen interest in Cybersecurity. I love exploring the intersection of development and security, ensuring that innovative applications are not just functional but also secure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=absolomjr&label=Profile%20views&color=0e75b6&style=flat" alt="absolomjr" /> </p>
 
