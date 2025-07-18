@@ -9,7 +9,7 @@
 
 - 🔭 I’m **currently learning and experimenting with modern web frameworks in Javascript; React and Node.js and Express.js**
 
-- 🌱 I’m currently learning **Expanding my skills in cybersecurity, networking web development.**
+- 🌱 I’m currently learning **expanding my skills in cybersecurity, networking web development.**
 
 - 👯 I’m looking to collaborate on **Looking forward to collaborating on open-source projects, cybersecurity solutions, and innovative web applications**
 
