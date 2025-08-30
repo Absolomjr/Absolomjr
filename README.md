@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **absolomjr100@gmail.com**
 
-- ⚡ Fun fact **I love chelsea football club alot**
+- ⚡ Fun fact **I love Chelsea football club**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
