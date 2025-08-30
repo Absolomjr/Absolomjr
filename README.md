@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Looking forward to collaborating on open-source projects, cybersecurity solutions, and innovative web applications**
 
-- 📝 I regularly write articles on [on my LinkedIN](on my LinkedIN)
+- 📝 I regularly write articles and posts on my LinkedIN.
 
 - 💬 Ask me about **Ask me about Full-Stack Development, OOP in Python, and CyberSecurity best practices.**
 
