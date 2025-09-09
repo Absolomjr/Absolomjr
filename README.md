@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles and posts on my LinkedIN.
 
-- 💬 Ask me about **ask me about Full-Stack Development, OOP in Python, and CyberSecurity best practices.**
+- 💬 Ask me about **Full-Stack Development, OOP in Python, and CyberSecurity best practices.**
 
 - 📫 How to reach me **absolomjr100@gmail.com**
 
