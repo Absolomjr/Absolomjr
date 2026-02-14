@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>👨‍💻 I’m a security-focused Full-Stack Developer and third-year Computer Science student passionate about building modern, scalable, and secure applications. I work mainly with React.js, Node.js, and Express.js while expanding my expertise in cybersecurity, networking, and Java. I enjoy combining clean development practices with security-first thinking, collaborating on open-source projects, and creating impactful web solutions. I also share my learning journey and tech insights on LinkedIn — feel free to connect or reach out via 📫 ⚡ Chelsea FC supporter.<br>
+👨‍💻 I’m a security-focused Full-Stack Developer and third-year Computer Science student passionate about building modern, scalable, and secure applications. 
+💻I work mainly with React.js,Node js, Express js and Python frameworks of Django and FastAPI. 
+✍️I am open to collaborating on open-source projects, and creating impactful web solutions. 
+📊 I also share my learning journey and tech insights on LinkedIn 
+💫 I love Chelsea FC supporter.
 
 
 # 💻 Tech Stack:
