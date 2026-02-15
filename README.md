@@ -3,7 +3,7 @@
 <br>💻I work mainly with React.js,Node js, Express js and Python frameworks of Django and FastAPI.<br> 
 <br>✍️I am open to collaborating on open-source projects, and creating impactful web solutions.<br> 
 <br>📊 I also share my learning journey and tech insights on LinkedIn<br> 
-<br>💫 I love Chelsea FC supporter.<br>
+<br>💫 I love Chelsea FC.<br>
 
 
 # 💻 Tech Stack:
