@@ -1,5 +1,5 @@
 **# 💫 About Me:
-<br>👨‍💻 I’m a security-focused Full-Stack Developer and third-year Computer Science student passionate about building modern, scalable, and secure applications. <br>
+<br>👨‍💻 I’m a security-focused Full-Stack Developer passionate about building modern, scalable, and secure applications. <br>
 <br>💻I work mainly with React.js,Node js, Express js and Python frameworks of Django and FastAPI.<br> 
 <br>💻I am learning Java and springboot.<br> 
 <br>✍️I am open to collaborating on open-source projects, and creating impactful web solutions.<br> 
