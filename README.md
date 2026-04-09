@@ -1,4 +1,4 @@
-# 💫 About Me:
+**# 💫 About Me:
 <br>👨‍💻 I’m a security-focused Full-Stack Developer and third-year Computer Science student passionate about building modern, scalable, and secure applications. <br>
 <br>💻I work mainly with React.js,Node js, Express js and Python frameworks of Django and FastAPI.<br> 
 <br>💻I am learning Java and springboot.<br> 
@@ -24,3 +24,80 @@
 [![](https://visitcount.itsvg.in/api?id=Absolomjr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**# Absolom Orianga  
+**Security-Focused Full-Stack Developer · Cybersecurity Enthusiast · Computer Science Student**
+
+📍 Kampala, Uganda  
+
+---
+
+## About
+
+I am a security-focused Full-Stack Developer and Computer Science student with a strong interest in building scalable, secure, and production-ready applications.
+
+My work sits at the intersection of **software engineering and cybersecurity**, where I focus on developing systems that are not only functional but resilient against modern security threats.
+
+I primarily build web applications using modern JavaScript frameworks and Python-based backends, while continuously expanding my expertise in backend architecture and secure system design.
+
+Beyond development, I actively explore cybersecurity concepts including network security, threat detection, and vulnerability analysis, applying these principles in both academic and personal projects.
+
+I am also passionate about continuous learning, open-source collaboration, and sharing my journey and insights with the tech community.
+
+---
+
+## What I Do
+
+- Build full-stack web applications (React, Node.js, Django)
+- Design secure backend systems and APIs
+- Explore cybersecurity practices and threat analysis
+- Develop scalable and maintainable software solutions
+- Continuously learn and apply modern technologies
+
+---
+
+## Tech Stack
+
+### Languages
+JavaScript · TypeScript · Python · Java · SQL · HTML · CSS  
+
+### Frameworks & Libraries
+React · Next.js · Node.js · Express · Django · FastAPI · Spring Boot · Bootstrap  
+
+### Databases
+MySQL · MongoDB · MariaDB  
+
+### Cloud, DevOps & Tools
+AWS · Azure · Docker · Kubernetes · Git · GitHub Actions · Grafana · Linux  
+
+### Data & Analytics
+Pandas · NumPy · Scikit-learn  
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Absolomjr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Absolomjr&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Absolomjr&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
+- GitHub: https://github.com/Absolomjr  
+
+---
+
+## Open To
+
+I’m open to:
+- Internship opportunities  
+- Open-source collaboration  
+- Cybersecurity and software development projects  
+
+If you're building something interesting or impactful, feel free to reach out.
+
+---
