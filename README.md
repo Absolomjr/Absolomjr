@@ -24,14 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=Absolomjr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Absolomjr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Absolomjr&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Absolomjr&theme=dark&hide_border=true&layout=compact)
-
----
 
 
